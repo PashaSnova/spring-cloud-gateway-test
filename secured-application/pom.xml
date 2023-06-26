@@ -10,7 +10,6 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>org.xen</groupId>
     <artifactId>secured-application</artifactId>
     <version>1.0-SNAPSHOT</version>
 
